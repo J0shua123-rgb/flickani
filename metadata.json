@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Theater",
+  "description": "Cinematic streaming hub with dynamic Bento-Grid discovery, Cmd+K spotlight search, AniList & TMDB metadata integration, and immersive Theater playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
